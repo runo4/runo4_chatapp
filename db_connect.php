@@ -8,4 +8,3 @@ function db_connect(){
     $pdo = new PDO(DSN, DB_USERNAME, DB_PASSWORD);
     return $pdo;
 }
-?>
