@@ -1,4 +1,5 @@
 <?php
+//local
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'root');
 define('DSN', 'mysql:host=localhost; dbname=php_testdb; charset=utf8');
