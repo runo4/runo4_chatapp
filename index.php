@@ -16,6 +16,7 @@ try{
     exit($e->getMessage());
 }
 
+//投稿時の追加処理
 if(isset($_POST['submit'])){
     $post = $_POST['post'];
     $name = $_POST['name'];
