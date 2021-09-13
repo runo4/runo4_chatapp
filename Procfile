@@ -1,1 +1,1 @@
-web: https://runo4-php-chat.herokuapp.com/index.php web/
+web: vendor/bin/heroku-php-apache2 web/
